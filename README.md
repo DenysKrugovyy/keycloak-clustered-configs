@@ -552,6 +552,10 @@ For a complete clean up, you can remove Vagrant box used in this section
 vagrant box remove hashicorp/bionic64
 ```
 
+#### Links useful
+
+* [Cofiguration HA Keycloak from Habr](https://habr.com/ru/companies/flant/articles/567626/)
+
 ## Issues
 
 ### Microsoft SQL Server
